@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.label {
+  display: block;
+}
+.inputs {
+  display: block;
+  margin-left: 40%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  height: 5vh;
+  width: 22vw;
+  border: 2px solid blue;
+  border-radius: 12px;
+}
+h1 {
+  color: blue;
+}
